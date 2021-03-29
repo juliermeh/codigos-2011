@@ -1,0 +1,17 @@
+O programa deverá expor o número mínimo de jogadas que uma dama no jogo de xadrez poderá fazer para atingir a casa fornecida na entrada, dado a casa atual também na entrada.
+1 - Definir as variáveis utilizadas
+     1.1 - variável movimentos
+     1.2 - variável x1
+     1.3 - variável y1
+     1.4 - variável x2
+     1.5 - variável y2
+2 - Receber dados de entrada
+     2.1 - utilizar int (raw_input ())
+3 - Utilizar o while como estrutura de repetição
+     3.1 - usar while True com sentinela
+3 - Definir as restrições
+     4.1 - usando o if x1 = 0 and x2 = 0 and y1 = 0 and y2 = 0
+     4.2 - usar o break quando 0000 for dado na entrada
+4 - Implementar variáveis
+5 - Imprimir o resultado
+     5.1 - print movimentos

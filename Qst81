@@ -1,0 +1,14 @@
+O programa deverá expor a soma dos números fornecidos na entrada, tem que ler N números e depois somá-los e expor o resultado na saída.
+1 - Definir as variáveis utilizadas
+     1.1 - variável soma
+     1.2 - variável lista
+     1.3 - variável n
+2 - Receber dados de entrada
+     2.1 - utilizar int (raw_input ())
+3 - Utilizar o for como estrutura de repetição
+     3.1 - for i in lista
+4 - Definir as restrições fornecidas na questão
+     4.1 - usando o if 0 =< n =< 50
+     4.2 - elif x =< 5000
+5 - Imprimir o resultado
+     5.1 - usar print soma
